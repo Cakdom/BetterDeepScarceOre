@@ -101,7 +101,8 @@ Reference Info for BetterScarceDeepOre--
 			u- [S] Akimotoite (Si, Mg)
 			r- [CM] Kamacite (Fe, Ni, Co)
 			r- [CM] Glaucodot (Fe, Co)
-		Asteroids: all very rarely small patches Tier1=60%, Tier2=30%, Tier3=10%
+		Asteroids: all Tier1=60%, Tier2=30%, Tier3=10%
+		Planet Rocks: Tier1(15%ea)-DenseIron+Dolomite(10%)
 
 Steam Description:
 
