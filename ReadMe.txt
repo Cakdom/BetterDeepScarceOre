@@ -1,109 +1,3 @@
-ReadMe
-
-Reference Info for BetterScarceDeepOre--
-	Depth:
-		Tier1 50-300m
-			Stone_01//Stone
-			Stone_XX//Icy Stone
-			Iron_01//Icy Iron (Fe)
-			Iron_02//[CM] Dense Iron (Fe) 1
-			[CM] Heazlewoodite (Ni) 2
-			[CM] Taenite (Fe, Ni) 3
-			[S] Hapkeite (Fe, Si) 4
-			[S] Sinoite (Si) 5
-			[S] Quartz (Si) 6
-		Tier2 300-600m
-			[S] Akimotoite (Si, Mg) 100
-			[S] Wadsleyite (Si, Mg) 101
-			[S] Olivine (Si, Mg) 102
-			[S] Dolomite (Mg) 103
-			[CM] Cattierite (Co) 104
-			[CM] Cohenite (Ni, Co) 105
-			[CM] Kamacite (Fe, Ni, Co) 106
-			[CM] Glaucodot (Fe, Co) 107
-			[PM] Galena (Ag) 108
-			[PM] Chlorargyrite (Ag) 109
-		Tier3 600-900m
-			[EI] Carnotite (U) 200
-			[EI] Autunite (U) 201
-			[EI] Uraniaurite (U, Au) 202
-			[PM] Electrum (Au, Ag) 203
-			[PM] Porphyry (Au) 204
-			[PM] Petzite (Ag, Au) 205
-			[PM] Niggliite (Pt) 206
-			[PM] Cooperite (Ni, Pt) 207
-			[PM] Sperrylite (Pt) 208
-			[CM] Pyrite (Fe, Au) 209
-
-	Distribution:	
-		Earth: Cobalt
-			c- [CM] Kamacite (Fe, Ni, Co)
-			c- [CM] Glaucodot (Fe, Co)
-			c- [S] Hapkeite (Fe, Si)
-			u- [S] Sinoite (Si)
-			u- [CM] Taenite (Fe, Ni)
-			u- Iron_02//[CM] Dense Iron (Fe)
-			u- [CM] Cattierite (Co)
-			u- [CM] Cohenite (Ni, Co)
-			r- [S] Akimotoite (Si, Mg)
-			r- [S] Wadsleyite (Si, Mg)
-		Moon: Silver & Gold (little)
-			c- [S] Quartz (Si)
-			c- [CM] Heazlewoodite (Ni)
-			u- [PM] Galena (Ag)
-			u- [CM] Pyrite (Fe, Au)
-			r- [PM] Petzite (Ag, Au)
-			r- [PM] Electrum (Au, Ag)
-		Mars: Platinum
-			c- [S] Quartz (Si)
-			c- [S] Hapkeite (Fe, Si)
-			c- [CM] Taenite (Fe, Ni)
-			u- Iron_02//[CM] Dense Iron (Fe)
-			u- [PM] Niggliite (Pt)
-			u- [PM] Cooperite (Ni, Pt)
-			u- [PM] Sperrylite (Pt)
-			r- [S] Akimotoite (Si, Mg)
-			r- [CM] Kamacite (Fe, Ni, Co)
-			r- [CM] Glaucodot (Fe, Co)
-		Europa: Silver
-			c- [S] Hapkeite (Fe, Si)
-			c- [CM] Taenite (Fe, Ni)
-			c- [PM] Galena (Ag)
-			u- [PM] Chlorargyrite (Ag)
-			r- [PM] Petzite (Ag, Au)
-			r- [PM] Electrum (Au, Ag)
-		Alien: Uranium
-			c- [CM] Heazlewoodite (Ni)
-			c- [S] Hapkeite (Fe, Si)
-			c- [CM] Taenite (Fe, Ni)
-			u- Iron_02//[CM] Dense Iron (Fe)
-			u- [EI] Carnotite (U)
-			u- [EI] Autunite (U)
-			r- [EI] Uraniaurite (U, Au)
-			r- [S] Wadsleyite (Si, Mg)
-			r- [CM] Kamacite (Fe, Ni, Co)
-			r- [CM] Glaucodot (Fe, Co)
-		Titan: Gold
-			c- [CM] Pyrite (Fe, Au)
-			c- [S] Quartz (Si)
-			c- [CM] Taenite (Fe, Ni)
-			u- [S] Hapkeite (Fe, Si)
-			u- [PM] Electrum (Au, Ag)
-			u- [PM] Porphyry (Au)
-			u- [PM] Petzite (Ag, Au)
-			r- [PM] Cooperite (Ni, Pt)
-		Triton: Magnesium
-			c- Iron_02//[CM] Dense Iron (Fe)
-			c- [S] Wadsleyite (Si, Mg)
-			c- [CM] Heazlewoodite (Ni)
-			u- [S] Dolomite (Mg)
-			u- [S] Olivine (Si, Mg)
-			u- [S] Akimotoite (Si, Mg)
-			r- [CM] Kamacite (Fe, Ni, Co)
-			r- [CM] Glaucodot (Fe, Co)
-		Asteroids: all Tier1=60%, Tier2=30%, Tier3=10%
-		Planet Rocks: Tier1(15%ea)-DenseIron+Dolomite(10%)
-
 Steam Description:
 
 Table;
@@ -311,7 +205,110 @@ Table;
 [/tr]
 [/table]
 
-Change List-- 
+
+Detailed Info--
+	Depth:
+		Tier1 50-300m (ID-Name-Number)
+			Iron_01-Icy Iron (Fe)
+			Iron_02-[CM] Dense Iron (Fe) 1
+			Heazlewoodite_01-[CM] Heazlewoodite (Ni) 2
+			Taenite_01-[CM] Taenite (Fe, Ni) 3
+			Hapkeite_01-[S] Hapkeite (Fe, Si) 4
+			Sinoite_01-[S] Sinoite (Si) 5
+			Quartz_01-[S] Quartz (Si) 6
+		Tier2 300-600m
+			Akimotoite_01-[S] Akimotoite (Si, Mg) 100
+			Wadsleyite_01-[S] Wadsleyite (Si, Mg) 101
+			Olivine_01-[S] Olivine (Si, Mg) 102
+			Dolomite_01-[S] Dolomite (Mg) 103
+			Cattierite_01-[CM] Cattierite (Co) 104
+			Cohenite_01-[CM] Cohenite (Ni, Co) 105
+			Kamacite_01-[CM] Kamacite (Fe, Ni, Co) 106
+			Glaucodot_01-[CM] Glaucodot (Fe, Co) 107
+			Galena_01-[PM] Galena (Ag) 108
+			Chlorargyrite_01-[PM] Chlorargyrite (Ag) 109
+		Tier3 600-900m
+			Carnotite_01-[EI] Carnotite (U) 200
+			Autunite_01-[EI] Autunite (U) 201
+			Uraniaurite_01-[EI] Uraniaurite (U, Au) 202
+			Electrum_01-[PM] Electrum (Au, Ag) 203
+			Porphyry_01-[PM] Porphyry (Au) 204
+			Petzite_01-[PM] Petzite (Ag, Au) 205
+			Niggliite_01-[PM] Niggliite (Pt) 206
+			Cooperite_01-[PM] Cooperite (Ni, Pt) 207
+			Sperrylite_01-[PM] Sperrylite (Pt) 208
+			Pyrite_01-[CM] Pyrite (Fe, Au) 209
+
+	Distribution:	
+		Earth: Cobalt
+			c- [CM] Kamacite (Fe, Ni, Co)
+			c- [CM] Glaucodot (Fe, Co)
+			c- [S] Hapkeite (Fe, Si)
+			u- [S] Sinoite (Si)
+			u- [CM] Taenite (Fe, Ni)
+			u- Iron_02//[CM] Dense Iron (Fe)
+			u- [CM] Cattierite (Co)
+			u- [CM] Cohenite (Ni, Co)
+			r- [S] Akimotoite (Si, Mg)
+			r- [S] Wadsleyite (Si, Mg)
+		Moon: Silver & Gold (little)
+			c- [S] Quartz (Si)
+			c- [CM] Heazlewoodite (Ni)
+			u- [PM] Galena (Ag)
+			u- [CM] Pyrite (Fe, Au)
+			r- [PM] Petzite (Ag, Au)
+			r- [PM] Electrum (Au, Ag)
+		Mars: Platinum
+			c- [S] Quartz (Si)
+			c- [S] Hapkeite (Fe, Si)
+			c- [CM] Taenite (Fe, Ni)
+			u- Iron_02//[CM] Dense Iron (Fe)
+			u- [PM] Niggliite (Pt)
+			u- [PM] Cooperite (Ni, Pt)
+			u- [PM] Sperrylite (Pt)
+			r- [S] Akimotoite (Si, Mg)
+			r- [CM] Kamacite (Fe, Ni, Co)
+			r- [CM] Glaucodot (Fe, Co)
+		Europa: Silver
+			c- [S] Hapkeite (Fe, Si)
+			c- [CM] Taenite (Fe, Ni)
+			c- [PM] Galena (Ag)
+			u- [PM] Chlorargyrite (Ag)
+			r- [PM] Petzite (Ag, Au)
+			r- [PM] Electrum (Au, Ag)
+		Alien: Uranium
+			c- [CM] Heazlewoodite (Ni)
+			c- [S] Hapkeite (Fe, Si)
+			c- [CM] Taenite (Fe, Ni)
+			u- Iron_02//[CM] Dense Iron (Fe)
+			u- [EI] Carnotite (U)
+			u- [EI] Autunite (U)
+			r- [EI] Uraniaurite (U, Au)
+			r- [S] Wadsleyite (Si, Mg)
+			r- [CM] Kamacite (Fe, Ni, Co)
+			r- [CM] Glaucodot (Fe, Co)
+		Titan: Gold
+			c- [CM] Pyrite (Fe, Au)
+			c- [S] Quartz (Si)
+			c- [CM] Taenite (Fe, Ni)
+			u- [S] Hapkeite (Fe, Si)
+			u- [PM] Electrum (Au, Ag)
+			u- [PM] Porphyry (Au)
+			u- [PM] Petzite (Ag, Au)
+			r- [PM] Cooperite (Ni, Pt)
+		Triton: Magnesium
+			c- Iron_02//[CM] Dense Iron (Fe)
+			c- [S] Wadsleyite (Si, Mg)
+			c- [CM] Heazlewoodite (Ni)
+			u- [S] Dolomite (Mg)
+			u- [S] Olivine (Si, Mg)
+			u- [S] Akimotoite (Si, Mg)
+			r- [CM] Kamacite (Fe, Ni, Co)
+			r- [CM] Glaucodot (Fe, Co)
+		Asteroids: all Tier1=100ea, Tier2=10ea, Tier3=1ea
+		Planet Rocks: Tier1(15%ea)-DenseIron+Dolomite(10%)
+
+Notes To Self-- 
 	VoxelMaterialChanges = special ores on planets
 	VoxelMaterials_asteroids = asteroid and planet rocks spawn rules
 	PlanetGeneratorDefinitions = star system planets + moons ore mapping
