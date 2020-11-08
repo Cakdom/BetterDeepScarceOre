@@ -190,7 +190,9 @@
       <MinedOre>Stone</MinedOre>
       <MinedOreRatio>5</MinedOreRatio>
       <CanBeHarvested>true</CanBeHarvested>
-      <IsRare>false</IsRare>
+      <IsRare>true</IsRare>
+      <SpawnsInAsteroids>true</SpawnsInAsteroids>
+      <AsteroidGeneratorSpawnProbabilityMultiplier>5000</AsteroidGeneratorSpawnProbabilityMultiplier>
       
 
       <VoxelHandPreview>Textures\Voxels\Stone_05_Thumbnail.dds</VoxelHandPreview>
