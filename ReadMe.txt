@@ -19,6 +19,7 @@ Planet & Moon Ore Spawn Table:
 <th>Europa</th>
 <th>Alien</th>
 <th>Titan</th>
+<th>Triton</th>
 </tr>
 <tr><th>Taenite</th>
 <td>2345</td>
@@ -27,6 +28,7 @@ Planet & Moon Ore Spawn Table:
 <td>28876</td>
 <td>26148</td>
 <td>30152</td>
+<td>0</td>
 </tr>
 <tr><th>Glaucodot</th>
 <td>30437</td>
@@ -35,6 +37,7 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>783</td>
 <td>0</td>
+<td>326</td>
 </tr>
 <tr><th>Cooperite</th>
 <td>0</td>
@@ -43,6 +46,7 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>0</td>
 <td>339</td>
+<td>0</td>
 </tr>
 <tr><th>Hapkeite</th>
 <td>31228</td>
@@ -51,6 +55,7 @@ Planet & Moon Ore Spawn Table:
 <td>33564</td>
 <td>28794</td>
 <td>1700</td>
+<td>0</td>
 </tr>
 <tr><th>Iron</th>
 <td>2332</td>
@@ -59,6 +64,7 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>2131</td>
 <td>0</td>
+<td>31617</td>
 </tr>
 <tr><th>Kamacite</th>
 <td>27821</td>
@@ -67,6 +73,7 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>358</td>
 </tr>
 <tr><th>Quartz</th>
 <td>0</td>
@@ -75,6 +82,7 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>0</td>
 <td>30992</td>
+<td>0</td>
 </tr>
 <tr><th>Akimotoite</th>
 <td>0</td>
@@ -83,11 +91,13 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>2213</td>
 </tr>
 <tr><th>Sperrylite</th>
 <td>0</td>
 <td>0</td>
 <td>3288</td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -99,6 +109,7 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>0</td>
 </tr>
 <tr><th>Carnotite</th>
 <td>0</td>
@@ -106,6 +117,7 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>0</td>
 <td>3688</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr><th>Uraniaurite</th>
@@ -115,6 +127,7 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>733</td>
 <td>0</td>
+<td>0</td>
 </tr>
 <tr><th>Heazlewoodite</th>
 <td>0</td>
@@ -123,6 +136,7 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>33764</td>
 <td>0</td>
+<td>30420</td>
 </tr>
 <tr><th>Autunite</th>
 <td>0</td>
@@ -130,6 +144,7 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>0</td>
 <td>3761</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr><th>Wadsleyite</th>
@@ -139,6 +154,24 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>207</td>
 <td>0</td>
+<td>27990</td>
+</tr>
+<tr><th>Olivine</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>4296</td>
+</tr><tr><th>Dolomite</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2946</td>
 </tr>
 <tr><th>Pyrite</th>
 <td>0</td>
@@ -147,12 +180,14 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>0</td>
 <td>29198</td>
+<td>0</td>
 </tr>
 <tr><th>Galena</th>
 <td>0</td>
 <td>4719</td>
 <td>0</td>
 <td>33713</td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -163,6 +198,7 @@ Planet & Moon Ore Spawn Table:
 <td>982</td>
 <td>0</td>
 <td>2160</td>
+<td>0</td>
 </tr>
 <tr><th>Petzite</th>
 <td>0</td>
@@ -171,6 +207,7 @@ Planet & Moon Ore Spawn Table:
 <td>259</td>
 <td>0</td>
 <td>2603</td>
+<td>0</td>
 </tr>
 <tr><th>Chlorargyrite</th>
 <td>0</td>
@@ -179,9 +216,11 @@ Planet & Moon Ore Spawn Table:
 <td>2796</td>
 <td>0</td>
 <td>0</td>
+<td>0</td>
 </tr>
 <tr><th>Cattierite</th>
 <td>1820</td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -195,9 +234,11 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>0</td>
 </tr>
 <tr><th>Cohenite</th>
 <td>2731</td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -211,6 +252,7 @@ Planet & Moon Ore Spawn Table:
 <td>0</td>
 <td>0</td>
 <td>3056</td>
+<td>0</td>
 </tr>
 </table>
 
