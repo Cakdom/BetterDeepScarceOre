@@ -1,4 +1,4 @@
-Steam Description:
+Better Deep Scarce Ores:
 
 Welcome to a hard mining mode with in depth gameplay! This mod builds upon Better Stone but changes where ores spawn to create a challenging tiered miner development. Inspired by Scarce Resources and Deep Ores planets have deep large and infrequent patches of ore and certain ores are only common on given planets or moons. With this mod you will spend a lot of time searching for ore deposits but you will be highly rewarded and want to set up a big minning base to take advantage of the massive yield. You will likely have to rely on surface rocks in the early game and to get small amounts of Magnesium for defensive ammo. To progress you will have to get to the Earth Moon for some Silver and Gold for medbays and jump drives, Mars for Platinum, Alien for Uranium, and Europa and Titan for common Silver and Gold respectively. Triton is included and has common Magnesium and limited Cobalt if you want to use it as an alternative starting planet. 
 
@@ -266,8 +266,8 @@ FQA:
 --------------------------------------
 ? Modded planets; Not supported although they should work but will only have vanilla ores. 
 ? Mods that add ores; Generally any mods that add ores will cause unexpected behavior depending on which mod is higher priority during loading. Best to put this mod at top of the list(bottom for DS) so it has priority although it may then prevent the ores from the other mod from spawning. 
-? I can't find any ore; Yep that is the intended result of this mod. Are you using a modded long range ore detector? In my testing I had to travel relatively slowly or I would fly past the ore deposit without the 5k range of the ore detector being able to properly scan the whole area. I have had best results with a range just over 1k and driving on a rover(FYI the "Space only" detectors do work on planets). Also if you find any ore colored patches but the detector doesn't show anything it may just be really deep so try digging. 
-- Adding to my current save; Back up your save! Adding and removing this mod from a save file shouldn't break anything but it will cause unexpected behavior. For example ore patches will magically move on planets but already generated stones and asteroids will likely still have vanilla ores. 
+? I can't find any ore; Yep that is the intended result of this mod. Are you using a modded long range ore detector? In my testing I had to travel relatively slowly or I would fly past the ore deposit without the 5k range of the ore detector being able to properly scan the whole area. I have had best results with a range just over 1k and driving on a rover(FYI the "Space only" detectors do work on planets). Also if you find any ore colored patches but the detector doesn't show anything it may just be really deep so try digging. If you have thoughts on balance please share in the discussion below. 
+? Adding to my current save; Back up your save! Adding and removing this mod from a save file shouldn't break anything but it will cause unexpected behavior. For example ore patches will magically move on planets but already generated stones and asteroids will likely still have vanilla ores. 
 
 Bugs:
 --------------------------------------
@@ -282,8 +282,13 @@ Thanks!
 
 Planned Features:
 --------------------------------------
+GitHub Source Code; https://github.com/Cakdom/BetterDeepScarceOre
 ! Add a long range ore detector to the mod.
 ! Better ore color patches on surface to help finding ores. 
+
+Copywrite
+--------------------------------------
+Please do not repost or share original or derived versions of this mod. All work is original to me or the mod dependencies that this is expanding upon. Custom server versions are allowed as long as they link back to this mod and are anonomized, aka don't use a similar name, don't use the mod thumbnail. 
 
 ------------------------------------------------
 Detailed Info--
