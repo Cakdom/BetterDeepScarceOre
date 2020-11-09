@@ -1,8 +1,15 @@
 Steam Description:
 
+Welcome to a hard mining mode with in depth gameplay! This mod builds upon Better Stone but changes where ores spawn to create a challenging tiered miner development. Inspired by Scarce Resources and Deep Ores planets have deep large and infrequent patches of ore and certain ores are only common on given planets or moons. With this mod you will spend a lot of time searching for ore deposits but you will be highly rewarded and want to set up a big minning base to take advantage of the massive yield. You will likely have to rely on surface rocks in the early game and to get small amounts of Magnesium for defensive ammo. To progress you will have to get to the Earth Moon for some Silver and Gold for medbays and jump drives, Mars for Platinum, Alien for Uranium, and Europa and Titan for common Silver and Gold respectively. Triton is included and has common Magnesium and limited Cobalt if you want to use it as an alternative starting planet. 
+--------------------------------------
 
+Recommendations To Use Better Deep Scarce Ores:
+- To keep the hard mode when creating a new world set advanced settings "Asteroid amount" to "Lowest density".
+- A long range ore detector mod is highly recommended and I have found this one to work https://steamcommunity.com/sharedfiles/filedetails/?id=469301711
+- This mod was designed with an Earth start in mind but if you are willing to trade or salvage you could theoretically start anywhere. 
+--------------------------------------
 
-Table;
+Planet & Moon Ore Spawn Table:
 [table]
 [tr]
 [th][/th]
@@ -207,7 +214,36 @@ Table;
 [/tr]
 [/table]
 
+Tier1 Ores(Fe,Ni,Si): spawn 50-300m down on planets/moons, common in surface rocks, common in space asteroids. 
 
+Tier2 Ores(Co,Mg,Ag): spawn 300-600m down on planets/moons, Mg uncommon in surface rocks, uncommon in space asteroids. 
+
+Tier3 Ores(Au,Pt,U): spawn 600-900m down on planets/moons, extremely rare in space asteroids. 
+--------------------------------------
+
+FQA:
+? Modded planets; Not supported although they should work but will only have vanilla ores. 
+? Mods that add ores; Generally any mods that add ores will cause unexpected behavior depending on which mod is higher priority during loading. Best to put this mod at top of the list(bottom for DS) so it has priority although it may then prevent the ores from the other mod from spawning. 
+? I can't find any ore; Yep that is the intended result of this mod. Are you using a modded long range ore detector? In my testing I had to travel relatively slowly or I would fly past the ore deposit without the 5k range of the ore detector being able to properly scan the whole area. I have had best results with a range just over 1k and driving on a rover(FYI the "Space only" detectors do work on planets). Also if you find any ore colored patches but the detector doesn't show anything it may just be really deep so try digging. 
+- Adding to my current save; Back up your save! Adding and removing this mod from a save file shouldn't break anything but it will cause unexpected behavior. For example ore patches will magically move on planets but already generated stones and asteroids will likely still have vanilla ores. 
+--------------------------------------
+
+Bugs:
+> Currently in ALPHA TESTING
+--------------------------------------
+
+Thanks!
+- Lemmiwinks for the Procedural Ore Generator without which this mod would not have been possible. https://steamcommunity.com/sharedfiles/filedetails/?id=1649218738
+- DranKof for Better Stones that this mod expands upon. https://steamcommunity.com/sharedfiles/filedetails/?id=406244471
+- Chrido & Darian Stephens for Scarce Resources that I have enjoyed playing with and inspired this mod. https://steamcommunity.com/sharedfiles/filedetails/?id=831739660
+- Ghost722nd for Deep Ores that I have enjoyed playing with and inspired this mod. https://steamcommunity.com/sharedfiles/filedetails/?id=1540170706
+--------------------------------------
+
+Planned Features:
+! Add a long range ore detector to the mod.
+! Better ore color patches on surface to help finding ores. 
+
+------------------------------------------------
 Detailed Info--
 	Depth:
 		Tier1 50-300m (ID-Name-Number)
