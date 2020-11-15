@@ -356,4 +356,4 @@ Notes To Self--
 	PlanetGeneratorDefinitions = star system planets + moons ore mapping
 	Triton = new planet ore mapping
 
-	Otional Sandbox_config changes: SyncDistance = up to 50000, DepositsCountCoefficient = lower means less ore patches in asteroids, DepositSizeDenominator = lower smaller asteroid ore deposits, HarvestRatioMultiplier = lower means less ore per voxel space. 
+	Otional Sandbox_config changes: SyncDistance = up to 50000, DepositsCountCoefficient = lower means less ore patches in asteroids, DepositSizeDenominator = higher smaller asteroid ore deposits, HarvestRatioMultiplier = lower means less ore per voxel space. 
